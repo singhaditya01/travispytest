@@ -3,3 +3,10 @@ python:
   - 3.6
 script:
   - pytest
+
+notifications:
+  email:
+    recipients:
+      - kevin@theinfinityfund.com
+    on_success: never
+    on_failure: always
