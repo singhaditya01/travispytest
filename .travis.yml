@@ -7,6 +7,6 @@ script:
 notifications:
   email:
     recipients:
-      - kevin@theinfinityfund.com
+      - adityacse2019@gmail.com
     on_success: never
     on_failure: always
